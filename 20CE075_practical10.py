@@ -1,3 +1,7 @@
+# 20CE075 PARTH PARMAR
+# Practical 10: Generate PDF file of your 3rd Semester Mark-sheet
+# https://github.com/Morningstar000/Python-Practical-10
+
 import img2pdf
 from PIL import Image
 
